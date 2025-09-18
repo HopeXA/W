@@ -1,0 +1,6 @@
+[deployment]
+run = ["python3", "launcher.py"]
+
+[[ports]]
+localPort = 5000
+externalPort = 80
